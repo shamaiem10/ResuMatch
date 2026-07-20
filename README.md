@@ -20,7 +20,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-trigger-D93025?style=flat-square&logo=gmail&logoColor=white)](#)
 [![OpenRouter](https://img.shields.io/badge/OpenRouter-LLM-10B981?style=flat-square)](#)
 [![Sheets](https://img.shields.io/badge/Sheets-tracking-34A853?style=flat-square&logo=googlesheets&logoColor=white)](#)
-[![License](https://img.shields.io/badge/license-personal%20use-lightgrey?style=flat-square)](#)
+
 
 <br>
 
@@ -103,12 +103,16 @@ flowchart TD
 
 ## Scoring guide
 
+<div align="center">
+
 | Range | Verdict | What it means |
 |:--:|:--|:--|
 | 🟢 **90–100** | Excellent match | Exceeds most requirements |
 | 🟢 **75–89** | Strong match | Ready for an interview |
 | 🟡 **60–74** | Partial match | Worth a look if the pool is thin |
 | 🔴 **< 60** | Poor match | Not recommended |
+
+</div>
 
 <br>
 
